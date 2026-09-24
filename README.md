@@ -246,4 +246,4 @@ This repository serves as the official landing page for TurboFTP. The software i
 **Get the most recent version of TurboFTP today!**
 
 ---
-**Last updated:** 2026-09-24 13:16:45 UTC
+**Last updated:** 2026-09-24 18:14:17 UTC
